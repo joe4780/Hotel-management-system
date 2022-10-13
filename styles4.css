@@ -1,0 +1,27 @@
+body{
+background-color: lightskyblue;
+}
+
+article p{
+    line-height:2em;
+    color:blueviolet;
+    font-size:20px;
+    }
+
+.images{
+margin: 80px 0;
+text-align: center;
+white-space: nowrap;
+}
+.images li{
+display: inline-block;
+width: 40%;
+margin: 20px 5%;
+}
+
+.images li img{
+max-width: 100%;
+}
+h1{
+text-align: center;
+}
